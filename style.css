@@ -1,0 +1,32 @@
+/*
+ *Name: Jack Jiang 
+ *UnityID: jjiang23	
+ *Date: 4/14/19 
+ *Assignment: Independent Assignment
+ *Description: webpage 
+ */
+ 
+p {
+    property: value;
+}
+
+body{
+	background-color:#DDDDDD;
+}
+
+.class {
+    property: value;
+}
+
+#photo-resize {
+    max-width: 200px;
+	max-height: 250px; 
+	border-style: outset;
+	border-width: 2px;
+	border-color: green;
+	
+}
+
+table{
+	border: 1px solid #FF0000 ;
+}
